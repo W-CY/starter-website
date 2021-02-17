@@ -18,7 +18,7 @@ bio: My research interests is Materials Science and Engineering.
 
 # Interests to show in About widget
 interests:
-- Materials Science and Engineering
+- Materials Science and Engineering 
 
 # Education to show in About widget
 education:
